@@ -75,11 +75,11 @@ function Location() {
             <h3 className="text-xl font-bold mb-3">Horários dos Cultos</h3>
             <p className="text-gray-300">Quarta-feira: 20h<br />Domingo: 19h30</p>
           </div>
-          <div className="bg-gradient-to-br from-purple-600 to-pink-600 p-8 rounded-2xl text-center hover:from-purple-700 hover:to-pink-700 transition-all">
+          <div className="bg-gradient-to-br from-gray-700 to-gray-800 p-8 rounded-2xl border border-gray-600/30 text-center hover:border-gray-500/50 transition-all">
             <div className="text-4xl mb-4">📱</div>
             <h3 className="text-xl font-bold mb-3">Redes Sociais</h3>
             <a href="https://www.instagram.com/luuzchurch" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-200 transition-colors">
-              @luuzchurch
+              Instagram: @luuzchurch
             </a>
           </div>
         </div>
