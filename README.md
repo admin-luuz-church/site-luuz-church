@@ -1,7 +1,7 @@
 
 # Luuz Church – Site Moderno
 
-Este é o site oficial da Luuz Church, criado com Vite + React + TailwindCSS. Foi desenvolvido com um layout moderno e inspirado em projetos como o da Lagoinha L2.
+Este é o site oficial da Luuz Church, criado com Vite + React + TailwindCSS.
 
 ## 🔧 Tecnologias utilizadas
 
@@ -24,7 +24,7 @@ npm run dev
 
 ## 📍 Endereço da Igreja
 
-**Rua Doutor Bueno, 251 – Macaé, RJ**
+**Rua Manoel Dias, 291 - Teresópolis, RJ**
 
 ---
 

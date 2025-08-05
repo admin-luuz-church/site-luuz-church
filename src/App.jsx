@@ -24,11 +24,32 @@ function About() {
   );
 }
 
+function Leadership() {
+  return (
+    <section className="py-16 px-6 bg-white text-gray-800">
+      <div className="max-w-4xl mx-auto text-center">
+        <h2 className="text-3xl font-bold mb-8">Nossos Pastores Presidentes</h2>
+        <img src="/pastores-bruno-dani-estevao.png" alt="Pastores Bruno, Danielle e Estevão" className="mx-auto mb-8 max-w-md w-full rounded-xl shadow-lg" />
+        <div className="grid md:grid-cols-2 gap-8">
+          <div className="bg-gray-50 p-6 rounded-xl">
+            <h3 className="text-xl font-semibold mb-2">Pr Bruno Marques</h3>
+            <p className="text-gray-600">Pastor Presidente</p>
+          </div>
+          <div className="bg-gray-50 p-6 rounded-xl">
+            <h3 className="text-xl font-semibold mb-2">Pra Danielle Januizo</h3>
+            <p className="text-gray-600">Pastora Presidente</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function Location() {
   return (
-    <section className="py-16 px-6 bg-white text-center">
+    <section className="py-16 px-6 bg-gray-100 text-center">
       <h2 className="text-3xl font-bold mb-4">Onde estamos</h2>
-      <p className="text-lg mb-4">Rua Manoel Dias, 291 - Barra do Imbuí, Teresópolis-RJ</p>
+      <p className="text-lg mb-4">Rua Manoel Dias, 291 - Teresópolis, RJ</p>
       <iframe
         className="w-full max-w-3xl h-80 mx-auto rounded-xl shadow-md"
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.7317197601164!2d-42.98088792546848!3d-22.401469020005653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x984cdfaaf4bcad%3A0x110101d7b16587c0!2sR.%20Manoel%20Dias%2C%20291%20-%20Barra%20do%20Imbu%C3%AD%2C%20Teres%C3%B3polis%20-%20RJ%2C%2025965-660!5e0!3m2!1spt-BR!2sbr!4v1754399992126!5m2!1spt-BR!2sbr"
@@ -53,6 +74,7 @@ function App() {
     <>
       <Hero />
       <About />
+      <Leadership />
       <Location />
       <Footer />
     </>
