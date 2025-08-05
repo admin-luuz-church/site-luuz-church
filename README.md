@@ -1,35 +1,25 @@
-# Luuz Church – Site Oficial
+# Site da Luuz Church
 
-Este é um projeto simples desenvolvido com **React + Vite + Tailwind CSS** para hospedar o site institucional da **Luuz Church**, localizada em Teresópolis/RJ.
+Este é um site simples e moderno da **Luuz Church**, criado com React + Vite + Tailwind CSS. O projeto foi preparado para ser hospedado facilmente na **Vercel**.
 
----
+## Funcionalidades
 
-## 🔥 Propósito
+- Página principal com imagem de fundo e boas-vindas
+- Seção sobre a história da igreja
+- Localização com Google Maps
+- Design responsivo e moderno
 
-Compartilhar com clareza a identidade, eventos, localização e missão da Luuz Church. Um espaço online simples, bonito e funcional para novos visitantes e membros da igreja.
-
----
-
-## 📦 Tecnologias Utilizadas
-
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vercel (Deploy)](https://vercel.com/)
-
----
-
-## 🚀 Como rodar localmente
+## Como rodar localmente
 
 ```bash
-# 1. Clone este repositório
-git clone https://github.com/seu-usuario/luuz-church-site.git
-
-# 2. Acesse a pasta do projeto
-cd luuz-church-site
-
-# 3. Instale as dependências
 npm install
-
-# 4. Inicie o servidor de desenvolvimento
 npm run dev
+```
+
+## Como fazer deploy na Vercel
+
+1. Crie um repositório no GitHub e envie os arquivos.
+2. Acesse [vercel.com](https://vercel.com), conecte com seu GitHub e importe o repositório.
+3. Clique em **Deploy**.
+
+Pronto! Seu site estará no ar 🚀
