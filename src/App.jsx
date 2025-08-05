@@ -7,7 +7,7 @@ function Hero() {
       <div className="bg-black bg-opacity-60 p-8 rounded-xl text-center max-w-2xl">
         <img src="/logo.jpg" alt="Luuz Church" className="mx-auto mb-6 w-24 h-24 rounded-full border-4 border-white" />
         <h1 className="text-4xl font-bold mb-4">Bem-vindo à Luuz Church</h1>
-        <p className="text-lg">Uma igreja apaixonada por Jesus e por pessoas. Conheça nossa história, valores e participe conosco.</p>
+        <p className="text-lg">Uma igreja apaixonada por Jesus e por pessoas. Conheça nossa história, valores e venha participar conosco dos nossos cultos.</p>
       </div>
     </section>
   );
@@ -36,7 +36,7 @@ function Leadership() {
             <p className="text-gray-300">Pastor Presidente</p>
           </div>
           <div className="bg-gray-700 p-6 rounded-xl">
-            <h3 className="text-xl font-semibold mb-2">Pra Danielle Januizo</h3>
+            <h3 className="text-xl font-semibold mb-2">Pra Danielle Januzio</h3>
             <p className="text-gray-300">Pastora Presidente</p>
           </div>
         </div>
