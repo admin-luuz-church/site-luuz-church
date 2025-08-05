@@ -45,13 +45,6 @@ export default function Home() {
             <li>Noites de adoração especial – cultos marcados por zelo espiritual e renovo da fé</li>
           </ul>
         </section>
-
-        <section>
-          <h2 className="text-2xl font-semibold mb-2">Slogan & Filosofia</h2>
-          <blockquote className="italic text-gray-400">
-            “Uma Família para Amar, um Lugar para Adorar”
-          </blockquote>
-        </section>
       </main>
 
       <footer className="text-center text-gray-500 py-6 text-sm">
