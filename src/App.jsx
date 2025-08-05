@@ -28,7 +28,7 @@ function Location() {
   return (
     <section className="py-16 px-6 bg-white text-center">
       <h2 className="text-3xl font-bold mb-4">Onde estamos</h2>
-      <p className="text-lg mb-4">Rua Doutor Bueno, 251 – Macaé, RJ</p>
+      <p className="text-lg mb-4">Rua Manoel Dias, 291 - Barra do Imbuí, Teresópolis, RJ</p>
       <iframe
         className="w-full max-w-3xl h-80 mx-auto rounded-xl shadow-md"
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.7317197601164!2d-42.98088792546848!3d-22.401469020005653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x984cdfaaf4bcad%3A0x110101d7b16587c0!2sR.%20Manoel%20Dias%2C%20291%20-%20Barra%20do%20Imbu%C3%AD%2C%20Teres%C3%B3polis%20-%20RJ%2C%2025965-660!5e0!3m2!1spt-BR!2sbr!4v1754399992126!5m2!1spt-BR!2sbr"
