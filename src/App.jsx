@@ -54,7 +54,7 @@ function Location() {
         <div className="grid md:grid-cols-2 gap-8 mb-8">
           <div className="bg-gray-800 p-6 rounded-xl">
             <h3 className="text-xl font-semibold mb-4">📍 Localização</h3>
-            <p className="text-gray-300">Rua Doutor Bueno, 251<br />Macaé, RJ</p>
+            <p className="text-gray-300">Rua Manoel Dias, 291<br />Teresópolis, RJ</p>
           </div>
           <div className="bg-gray-800 p-6 rounded-xl">
             <h3 className="text-xl font-semibold mb-4">⏰ Horários dos Cultos</h3>
